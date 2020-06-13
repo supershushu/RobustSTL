@@ -55,3 +55,4 @@ if __name__ == '__main__':
     test_result = bilateral_filter(1,1,1,1)
     assert test_result == 1
     print(test_result)
+    print('End of test..')
