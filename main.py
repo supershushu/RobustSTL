@@ -1,8 +1,6 @@
 from RobustSTL import RobustSTL
 from sample_generator import sample_generation
 
-import numpy as np
-import os
 import matplotlib
 import matplotlib.pyplot as plt
 
